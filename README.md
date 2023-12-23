@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Ma première page HTML</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background-color: green;
+        }
+
+        h1 {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <p>Teste de Seb N°1</p>
+
+    <h2>Salut, voici mon premier site de test</h2>
+    <p>Bienvenue dans ma matrice.</p>
+
+    <img src="https://i.gifer.com/3HeZ.gif" alt="GIF animé">
+
+    <p>Dédicace à Mathieu, Delphine & Clara.</p>
+    <p>Même si je n'ai pas réussi à rendre le lien valide en https, ce n'est que partie remise, à demain.</p>
+    <h3>Bisous de moi lol</h3>
+</body>
+</html>
